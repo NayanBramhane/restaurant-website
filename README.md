@@ -2,6 +2,10 @@
 
 This is an attractive UI for a Restaurant Website
 
+## Live
+
+[Click here](https://restaurant-website-3ba104.netlify.app)
+
 ## Description
 
 This website is built using ReactJS and MaterialUI
